@@ -4,7 +4,7 @@ import {FaSearch} from 'react-icons/fa'
 import '../main.css'
 
 class List extends Component {
-    constructor(props) {
+    constructor(props) {//
         super(props);
          this.state={
              search:""

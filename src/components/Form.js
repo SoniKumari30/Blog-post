@@ -52,7 +52,7 @@ class Form extends Component {
                             value={this.state.value}
                             placeholder="Your Post Body Goes Here..." 
                             onChange={this.handleChange} 
-                            className="form-control"
+                            className="form-c//ontrol"
                             required/>
                             <br/>
                     
